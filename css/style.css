@@ -169,7 +169,7 @@ body {
     color: var(--dark-gray-blue);
 }
 
-.grade p {
+.grade{
     font-weight: 800;
 }
 
